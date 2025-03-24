@@ -9,3 +9,4 @@ var isRich = true;
 console.log(isRich);
 var passed = false;
 console.log( typeof passed);
+
