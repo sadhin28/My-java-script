@@ -1,9 +1,9 @@
 
-sum=0;
-for(let num=0;num<=100;num+=2){
+let sum=0;
+for(let num=11;num<=20;num++){
    
     console.log(num);
-    console.log("sadhin")
+ 
     sum=sum+num;
 
 }
