@@ -3,6 +3,6 @@
 var numbers = ['Tom', 'Tim', 'Tin', 'Tik'];
 var result ='';
 for(var name of numbers){
-    result += name;
+    result += name + ' ';
 }
-console.log(result)
+console.log(result.trim())
